@@ -1,0 +1,42 @@
+body 
+{
+font-family: Arial;
+color #111111;
+padding: 8px;
+}
+.page
+{
+	border: 2px solid #665544;
+	background-color: #efefef;
+	padding: inherit;
+}
+{
+font-family: Arial;
+color #111111;
+}
+table 
+{ 
+width: 2000px
+}
+th,td 
+{
+padding: 7px 10px 10px 10px;
+}
+th
+{
+text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size:   90%;
+border-bottom: 2px solid #111111;
+border-top: 1px solid #999;
+text-align: middle;
+}
+tr.grey
+{
+background-color: #efefef;
+}
+tr:hover 
+{
+background-color: #c3e6e5;
+}
+
