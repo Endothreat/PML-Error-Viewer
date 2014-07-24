@@ -1,6 +1,6 @@
 body 
 {
-font-family: Arial;
+font-family: century;
 color #111111;
 padding: 8px;
 }
@@ -40,3 +40,22 @@ tr:hover
 background-color: #c3e6e5;
 }
 
+ 
+	.error_message {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 48pt;
+	font-family: arial;
+	color:red;
+	border-width: thick;
+	 border-style: dashed;
+	 border-color: #red;
+	 padding-right: 50px;
+	 padding-left: 50px;
+	 padding-top: 50px;
+	 padding-bottom: 50px;
+	 text-align: center;
+
+	}
+	
+}
